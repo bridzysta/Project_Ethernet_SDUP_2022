@@ -11,6 +11,7 @@ Software:
 * Pmod BLE source files in Vivado-library -> [Link](https://github.com/Digilent/vivado-library/tree/master/ip/Pmods/PmodBLE_v1_0)
 
 Useful links:
+* support Digilent system boards -> [Link](https://github.com/Digilent/vivado-boards)
 * IPs with FPGA and Zynq Boards -> [Link](https://www.youtube.com/watch?v=1wO8SGRfoIU)
 * Adding Pmod WiFi to project example -> [Link](https://www.youtube.com/watch?v=KTeTMv3oiPw)
 * Implementing Pmod pheripherials using Vivado -> [Link](https://www.youtube.com/watch?v=h4x_clSZsMc)

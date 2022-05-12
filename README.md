@@ -5,7 +5,6 @@
 Hardware:
 * ZYBO Zynq - 7000 Development Board -> [Link](https://digilent.com/reference/programmable-logic/zybo/start)
 * Pmod BLE -> [Link](https://digilent.com/reference/pmod/pmodble/start)
-* Board name (from Vivado 2019.1): Zybo Z7-10 -> [Link](https://digilent.com/reference/programmable-logic/zybo-z7/start)
 * <del>PmodNIC100 Ethernet Controller -> [Link](https://digilent.com/reference/pmod/pmodnic100/start)</del>
 
 Software:
